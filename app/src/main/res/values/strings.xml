@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">swgram</string>
+  <string name="api_id">30464186</string>
+  <string name="api_hash">8aea42c51ccbc102a672e44f88f9bb2e</string>
+  <string name="pw_warn">If you forget this password the only exits are: erase all local data, or verify your Telegram cloud password (2FA). Recovery is impossible otherwise.</string>
+</resources>
